@@ -1,3 +1,7 @@
+;;; package --- summary
+;;; commentary:
+;;; code:
+
 (add-to-list 'load-path "~/.emacs.d/lisp")
 (require 'init-packages)
 (require 'init-use-package)
@@ -19,3 +23,4 @@
 ;(require 'init-translate)
 ;;; init.el ends here
 
+;;; init.el ends here

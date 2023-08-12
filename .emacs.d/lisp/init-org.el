@@ -1,3 +1,7 @@
+;;; package --- summary
+;;; commentary:
+;;; code:
+
 (require 'org)
 (setq org-src-fontify-natively t)      ;;org-mode引用代码时实现语法高亮
 (add-hook 'org-mode-hook   
@@ -71,3 +75,4 @@
 	("org" :components ("org-notes" "org-static"))
 ))
 (provide 'init-org)
+;;; init-org.el ends here

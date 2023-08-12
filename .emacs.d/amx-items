@@ -1,13 +1,13 @@
 
 ;; ----- amx-history -----
 (
+ eww
+ customize
  web-mode
  ivy-resume
  eval-buffer
  cd
  5x5
- amx
- arp
 )
 
 ;; ----- amx-data -----
@@ -18,4 +18,6 @@
  (org-present . 2)
  (org-pandoc-export-as-ms . 1)
  (web-mode . 1)
+ (customize . 1)
+ (eww . 1)
 )

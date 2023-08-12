@@ -1,3 +1,7 @@
+;;; package --- summary
+;;; commentary:
+;;; code:
+
 (require 'go-translate)
 
 (setq gts-translate-list '(("en" "zh")))
@@ -8,3 +12,4 @@
        :render (gts-buffer-render)))
 
 (provide 'init-translate)
+;;; init-translate.el ends here

@@ -1,3 +1,6 @@
+;;; package --- Summary
+;;; Commentary:
+;;; Code:
 ;;配置ivy
 (use-package ivy
   :ensure t
@@ -47,3 +50,4 @@
   ("M-g e" . avy-goto-word-0))
 
 (provide 'init-find)
+;;; init-find.el ends here
