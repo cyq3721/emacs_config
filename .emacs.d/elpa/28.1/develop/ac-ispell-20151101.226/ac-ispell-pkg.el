@@ -1,0 +1,2 @@
+;;; Generated package description from ac-ispell.el  -*- no-byte-compile: t -*-
+(define-package "ac-ispell" "20151101.226" "ispell completion source for auto-complete" '((auto-complete "1.4") (cl-lib "0.5")) :commit "7e054793fe77f5fa1ced59d97da9c31df9807c48" :authors '(("Syohei YOSHIDA" . "syohex@gmail.com")) :maintainer '("Syohei YOSHIDA" . "syohex@gmail.com") :url "https://github.com/syohex/emacs-ac-ispell")

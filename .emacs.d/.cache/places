@@ -1,0 +1,37 @@
+;;; -*- coding: utf-8; mode: lisp-data -*-
+(("c:/Users/cyq37/Documents/GitHub/emacs_config/.emacs.d/.cache/.custom-settings" . 271)
+ ("c:/Users/cyq37/Documents/GitHub/MySite/Book/sql/book_insert.sql" . 292)
+ ("c:/Users/cyq37/Documents/GitHub/emacs_config/.spacemacs.d/init.el" . 28901)
+ ("c:/Users/cyq37/Documents/GitHub/emacs_config/.emacs.d/elpa/28.1/develop/sql-indent-20220728.210105/sql-indent-autoloads.el" . 1635)
+ ("c:/Users/cyq37/Documents/GitHub/My_Note/myLog.org" . 4931)
+ ("c:/Users/cyq37/Documents/GitHub/My_Note/note/兄弟连PHP教程笔记.org" . 25850)
+ ("c:/Users/cyq37/Documents/GitHub/emacs_config/.emacs.d/layers/+lang/php/README.org" . 8346)
+ ("c:/Users/cyq37/Documents/GitHub/MySite/htmltest/"
+  (dired-filename . "c:/Users/cyq37/Documents/GitHub/MySite/htmltest/表单.html"))
+ ("c:/Users/cyq37/Documents/GitHub/MySite/htmltest/css-test.html" . 238)
+ ("c:/Users/cyq37/Documents/GitHub/MySite/htmltest/css/type.css" . 737)
+ ("c:/Program Files/"
+  (dired-filename . "c:/Program Files/.."))
+ ("c:/"
+  (dired-filename . "c:/Users"))
+ ("c:/Users/"
+  (dired-filename . "c:/Users/cyq37"))
+ ("c:/Users/cyq37/"
+  (dired-filename . "c:/Users/cyq37/Documents"))
+ ("c:/Users/cyq37/Documents/"
+  (dired-filename . "c:/Users/cyq37/Documents/GitHub"))
+ ("c:/Users/cyq37/Documents/GitHub/"
+  (dired-filename . "c:/Users/cyq37/Documents/GitHub/My_Note"))
+ ("c:/Users/cyq37/Documents/GitHub/My_Note/"
+  (dired-filename . "c:/Users/cyq37/Documents/GitHub/My_Note/My_Notebook.org"))
+ ("c:/Users/cyq37/Documents/GitHub/My_Note/My_Notebook.org" . 1984)
+ ("c:/Users/cyq37/Documents/GitHub/emacs_config/.emacs.d/private/my-basic-layer/config.el" . 734)
+ ("c:/Program Files/Emacs/"
+  (dired-filename . "c:/Program Files/Emacs/.."))
+ ("c:/Users/cyq37/Documents/GitHub/emacs_config/"
+  (dired-filename . "c:/Users/cyq37/Documents/GitHub/emacs_config/.spacemacs.d"))
+ ("c:/Users/cyq37/Documents/GitHub/emacs_config/.spacemacs.d/"
+  (dired-filename . "c:/Users/cyq37/Documents/GitHub/emacs_config/.spacemacs.d/init.el"))
+ ("c:/Users/cyq37/Documents/GitHub/My_Note/7-7.org" . 234)
+ ("c:/Users/cyq37/Documents/GitHub/emacs_config/.emacs.d/layers/+lang/emacs-lisp/packages.el" . 1385)
+ ("c:/Users/cyq37/Documents/GitHub/emacs_config/.emacs.d/layers/+spacemacs/spacemacs-editing-visual/packages.el" . 1023))

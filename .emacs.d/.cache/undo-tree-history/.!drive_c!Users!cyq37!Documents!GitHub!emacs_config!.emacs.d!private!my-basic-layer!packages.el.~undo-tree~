@@ -1,0 +1,5 @@
+(undo-tree-save-format-version . 1)
+"9f1dd43784abddb385c9b1edb87473dcdbde9864"
+[nil nil nil nil (25498 55670 364282 0) 0 nil]
+([nil current ((#("%USER_MAIL_ADDRESS%" 0 19 (fontified nil)) . -147) (166 . 185) (#("%USER_FULL_NAME%" 0 16 (fontified nil)) . -145) (161 . 161) (#("%LAYER_NAME%" 0 12 (fontified nil)) . -1701) (1713 . 1727) (#("%LAYER_NAME%" 0 12 (fontified nil)) . -1626) (1638 . 1652) (#("%LAYER_NAME%" 0 12 (fontified nil)) . -1528) (1540 . 1554) (#("%LAYER_NAME%" 0 12 (fontified nil)) . -1482) (1494 . 1508) (#("%LAYER_NAME%" 0 12 (fontified nil)) . -1312) (1324 . 1338) (#("%LAYER_NAME%" 0 12 (fontified nil)) . -1163) (1175 . 1189) (#("%LAYER_NAME%" 0 12 (fontified nil)) . -21) (t 25498 55668 0 0) (33 . 47) (t 25498 55668 0 0)) nil (25498 55670 364276 0) 0 nil])
+nil

@@ -1,0 +1,2 @@
+;;; Generated package description from org-category-capture.el  -*- no-byte-compile: t -*-
+(define-package "org-category-capture" "20220114.730" "Contextualy capture of org-mode TODOs." '((org "9.0.0") (emacs "24")) :commit "bc5a2401b456c42c4346d59fa77d633770b6efea" :authors '(("Ivan Malison" . "IvanMalison@gmail.com")) :maintainer '("Ivan Malison" . "IvanMalison@gmail.com") :keywords '("org-mode" "todo" "tools" "outlines") :url "https://github.com/IvanMalison/org-projectile")

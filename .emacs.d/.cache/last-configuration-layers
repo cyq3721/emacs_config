@@ -1,0 +1,2 @@
+
+(setq dotspacemacs-configuration-layers '(sql auto-completion better-defaults emacs-lisp helm lsp markdown multiple-cursors org html php spell-checking syntax-checking treemacs my-basic-layer))
